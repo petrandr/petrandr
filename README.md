@@ -75,8 +75,12 @@ Experienced Cloud Architect with **15+ years** in Cloud Architecture & Operation
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=petrandr&show_icons=true&theme=tokyonight&hide_border=true" alt="Petros's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrandr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petrandr&theme=tokyonight" alt="Petros's GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petrandr&theme=tokyonight" alt="Repos per language" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=petrandr&theme=tokyonight" alt="Most used languages" height="180" />
 </p>
 
 <p align="center">
